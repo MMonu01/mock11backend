@@ -2,31 +2,21 @@
   
 	"users":[
 		{
-			"id":32,
+			"id":1,
 	   "username":"monu",
-		"email":"mdmonu2021@gmail.com",
-	   "password":"monu"
-	}
-	]
-,
-
-"transactions":[
-	{
-		"id":1,
-		"username":"monu",
-		"type":"Income",
-		"category":"Salary",
-		"amount":10000,
-		"date":"07/3/2021"
+		"level":"Easy"
 	},
 	{
 		"id":2,
-		"username":"monu",
-		"type":"Expense",
-		"category":"Bills",
-		"amount":1000,
-		"date":"07/4/2021"
-	}
-]
+   "username":"monu",
+	"level":"Medium"
+},
+{
+	"id":3,
+"username":"monu",
+"level":"Hard"
+}
+	]
     
 }
+
