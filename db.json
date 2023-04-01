@@ -4,17 +4,20 @@
 		{
 			"id":1,
 	   "username":"monu",
-		"level":"Easy"
+		"level":"Easy",
+		"score":0
 	},
 	{
 		"id":2,
    "username":"monu",
-	"level":"Medium"
+	"level":"Medium",
+	"score":0
 },
 {
 	"id":3,
 "username":"monu",
-"level":"Hard"
+"level":"Hard",
+"score":0
 }
 	]
     
